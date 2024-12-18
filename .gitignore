@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Ignorar archivos .csv
+# Ignorar archivos pesados .csv
 *.csv
 
 # C extensions
